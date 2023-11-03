@@ -1,0 +1,11 @@
+2023-10-20 12:11:39,298 - ImageReader - WARNING - Image Datasets\IAM_Words\words\a01\a01-117\a01-117-05-02.png could not be read, returning None.
+2023-10-20 12:11:39,335 - DataProvider - WARNING - Data or annotation is None, marking for removal on epoch end.
+2023-10-20 12:11:39,335 - DataProvider - WARNING - Data or annotation is None, skipping.
+2023-10-20 12:28:59,342 - ImageReader - WARNING - Image Datasets\IAM_Words\words\r06\r06-022\r06-022-03-05.png could not be read, returning None.
+2023-10-20 12:28:59,358 - DataProvider - WARNING - Data or annotation is None, marking for removal on epoch end.
+2023-10-20 12:28:59,358 - DataProvider - WARNING - Data or annotation is None, skipping.
+2023-10-20 12:29:49,341 - DataProvider - WARNING - Removing ['Datasets\\IAM_Words\\words\\r06\\r06-022\\r06-022-03-05.png', 'more'] from dataset.
+2023-10-20 12:29:50,146 - root - INFO - Epoch 0; loss: 13.064504623413086; CER: 0.9328486323356628; WER: 0.9667430520057678; val_loss: 9.503692626953125; val_CER: 0.6557074189186096; val_WER: 0.8554691672325134
+2023-10-20 12:29:50,208 - DataProvider - WARNING - Removing ['Datasets\\IAM_Words\\words\\a01\\a01-117\\a01-117-05-02.png', 'Powell'] from dataset.
+2023-10-20 13:08:19,671 - root - INFO - Epoch 1; loss: 8.48162841796875; CER: 0.5580006837844849; WER: 0.8142704367637634; val_loss: 5.642522811889648; val_CER: 0.3462934195995331; val_WER: 0.652877151966095
+2023-10-20 13:44:29,910 - root - INFO - Epoch 2; loss: 6.3866753578186035; CER: 0.4071263372898102; WER: 0.7151332497596741; val_loss: 9.583687782287598; val_CER: 0.5823225378990173; val_WER: 0.8371176719665527

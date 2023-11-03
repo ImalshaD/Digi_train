@@ -1,0 +1,1 @@
+model.save('handwritten_digits.model')
